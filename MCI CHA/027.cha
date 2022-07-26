@@ -1,0 +1,86 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 027.wav
+*PAR:	Alexa what is the weather outside ? 0_2740
+%xvas:	in Raleigh, it's forty-nine degrees Fahrenheit with mostly cloudy skies. tonight, you can look for just a few clouds in the sky, with a low of thirty-two degrees .
+*PAR:	Alexa what is today's date ? 2740_5240
+%xvas:	today is Friday, February five .
+*PAR:	Alexa what time is it ? 5240_7140
+%xvas:	the time is four forty-three p_m .
+*PAR:	Alexa when is Thanksgiving ? 7140_9460
+%xvas:	Thanksgiving day will be on Thursday, November twenty-five, two thousand and twenty-one .
+*PAR:	Alexa how do you bake chocolate chip cookies ? 9460_12680
+%xvas:	okay, for bake chocolate chip cookies , here's a few recipes .
+*PAR:	Alexa what is two times four ? 12680_15240
+%xvas:	two times four is eight .
+*PAR:	Alexa how many tablespoons in a cup ? 15240_19450
+%xvas:	one cup is sixteen tablespoons .
+*PAR:	Alexa how do you spell cinnamon ? 19450_21920
+%xvas:	cinnamon is spelled c. i. n. n. a. m. o. n .
+*PAR:	Alexa play classical music . 21920_24090
+%xvas:	the station: ultimate classical, free on Amazon music .
+*PAR:	Alexa volume eight . 24090_26320
+*PAR:	Alexa stop . 26320_28740
+*PAR:	Alexa play jazz . 28740_31000
+%xvas:	the station: ultimate jazz, free on Amazon music .
+*PAR:	Alexa volume six . 31000_33140
+*PAR:	Alexa stop . 33140_34920
+*PAR:	Alexa remind me to start the laundry tomorrow at two p_m . 34920_38980
+%xvas:	okay, I will remind you tomorrow at two p_m .
+*PAR:	Alexa remind me to feed the dog at seven p_m everyday . 38980_43490
+%xvas:	okay, I will remind you everyday at seven p_m .
+*PAR:	Alexa tell me my reminders . 43490_46080
+%xvas:	here are your upcoming reminders .
+*PAR:	Alexa remember my daughter's birthday is June first . 46080_50080
+%xvas:	you want me to note my daughter's birthday is June first, right ?
+*PAR:	yes . 50080_51290
+%xvas:	okay, noted .
+%xvas:	I can also remind you on June one at nine a.m.. do you want me to do that ?
+*PAR:	Alexa Alexa set a timer in five seconds . 51290_55480
+%xvas:	five seconds, starting now .
+*PAR:	Alexa stop . 55480_57080
+*PAR:	Alexa set my alarm for seven a_m tomorrow . 57080_61260
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa add oranges and grapes to my shopping list . 61260_65350
+%xvas:	oranges and grapes added .
+*PAR:	Alexa what is in my shopping list ? 65350_68150
+%xvas:	you have two items on your shopping list .
+*PAR:	Alexa call six zero three six six zero . 68150_73290
+%xvas:	sorry, I can't call six hundred and three thousand, six hundred and sixty .
+*PAR:	Alexa hang up . 73290_75100
+%xvas:	there is no active call .
+*PAR:	Alexa find my phone . 75100_77240
+%xvas:	I am going to call the phone now so listen out! if it doesn't ring, it's because I can't connect or it's on silent .
+*PAR:	Alexa quit . 77240_78840
+*PAR:	Alexa turn the bedroom light on . 78840_81340
+%xvas:	okay .
+*PAR:	Alexa turn the bedroom light red . 81340_83990
+%xvas:	okay .
+*PAR:	Alexa change the brightness to ten . 83990_86700
+%xvas:	okay .
+*PAR:	Alexa turn off the bedroom light . 86700_89230
+%xvas:	okay .
+*PAR:	Alexa open the kitchen camera . 89230_92390
+%xvas:	okay .
+*PAR:	Alexa kitchen camera . 92390_96610
+%xvas:	sorry, i’m not sure about that .
+*PAR:	Alexa kitchen camera . 96610_99830
+*PAR:	Alexa play white collar on fire tv . 99830_103410
+%xvas:	getting white collar from prime video .
+*PAR:	Alexa pause . 103410_105220
+*PAR:	Alexa how do you spell symptom ? 105220_107450
+%xvas:	symptom is spelled: s y m p t o m .
+*PAR:	Alexa call six zero three six six zero . 107450_113470
+%xvas:	sorry, I can't call six hundred and three thousand, six hundred and sixty .
+*PAR:	hey Alexa . 113470_115040
+*PAR:	call six zero three . 115040_117510
+%xvas:	I only heard a three-digit number, what’s the full ten digit number, including area code ?
+*PAR:	six zero three six six zero two two zero three . 117510_125470
+%xvas:	calling one six zero three six six zero two two zero three .
+*PAR:	Alexa hang up . 125470_128040
+@End

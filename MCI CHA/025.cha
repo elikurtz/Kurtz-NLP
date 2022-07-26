@@ -1,0 +1,81 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 025.wav
+*PAR:	Alexa what is the weather outside ? 0_3160
+%xvas:	in Raleigh, it's forty-six degrees Fahrenheit with cloudy skies. today, you can look for showers, with a high of fifty-one degrees and a low of thirty-two degrees .
+*PAR:	Alexa what is today's date ? 3160_6230
+%xvas:	today is Friday, February five .
+*PAR:	Alexa what time is it ? 6230_9220
+%xvas:	the time is twelve twenty-seven p_m .
+*PAR:	Alexa when is Thanksgiving ? 9220_12380
+%xvas:	Thanksgiving day will be on Thursday, November twenty-five, two thousand and twenty-one .
+*PAR:	Alexa how do you bake chocolate chip cookies ? 12380_16210
+%xvas:	okay, for bake chocolate chip cookies , here's a few recipes .
+*PAR:	[*audio was not intended for Alexa] . 16210_18210
+*PAR:	Alexa what is two times four ? 18210_21890
+%xvas:	two times four is eight .
+*PAR:	Alexa how many tablespoons in a cup ? 21890_26020
+%xvas:	one cup is sixteen tablespoons .
+*PAR:	Alexa how do you spell symptom ? 26020_29550
+%xvas:	symptom is spelled: s y m p t o m .
+*PAR:	Alexa play classical music . 29550_33050
+%xvas:	the station: ultimate classical, free on Amazon music .
+*PAR:	Alexa stop . 33050_35770
+*PAR:	[*audio was not intended for Alexa] . 35770_37770
+*PAR:	Alexa play jazz . 37770_40850
+%xvas:	the station: ultimate jazz, free on Amazon music .
+*PAR:	Alexa volume six . 40850_43840
+*PAR:	Alexa stop . 43840_46560
+*PAR:	[*audio was not intended for Alexa] . 46560_48560
+*PAR:	Alexa remind me to start the laundry tomorrow at two p_m . 48560_53530
+%xvas:	okay, I will remind you tomorrow at two p_m .
+*PAR:	Alexa remind me to feed the dog at seven p_m everyday . 53530_58650
+%xvas:	okay, I will remind you everyday at seven p_m .
+*PAR:	Alexa tell me . 58650_62360
+%xvas:	I didn’t catch that. please say that again .
+*PAR:	Alexa tell me my reminders . 62360_66220
+%xvas:	here are your upcoming reminders .
+*PAR:	Alexa remember my daughter's birthday is June the first . 66220_71070
+%xvas:	you want me to note my daughter's birthday is June the first, right ?
+*PAR:	right . 71070_72280
+%xvas:	okay, noted .
+%xvas:	to hear your notes, just ask what are my notes, or go to the notes section in the Alexa app .
+*PAR:	Alexa set a timer in five seconds . 72280_76550
+%xvas:	five seconds, starting now .
+*PAR:	Alexa stop . 76550_79120
+*PAR:	Alexa set my alarm for seven a_m tomorrow . 79120_83630
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa add oranges and grapes to my shopping list . 83630_88300
+%xvas:	oranges and grapes added .
+*PAR:	Alexa what is in my shopping list ? 88300_91830
+%xvas:	you have two items on your shopping list .
+*PAR:	[*audio was not intended for Alexa] . 91830_93830
+*PAR:	Alexa call six zero three six six zero two two zero three . 93830_101380
+%xvas:	calling one six zero three six six zero two two zero three .
+*PAR:	Alexa hang up . 101380_104310
+*PAR:	Alexa [*audio was not intended for Alexa] . 104310_107820
+*PAR:	Alexa find my phone . 107820_110930
+%xvas:	I am going to call the phone now so listen out! if it doesn't ring, it's because I can't connect or it's on silent .
+*PAR:	Alexa quit . 110930_113560
+*PAR:	[*audio was not intended for Alexa] . 113560_115560
+*PAR:	Alexa turn the bedroom light on . 115560_119480
+%xvas:	okay .
+*PAR:	Alexa turn the bedroom light red . 119480_123280
+%xvas:	okay .
+*PAR:	Alexa change the brightness to ten . 123280_127410
+%xvas:	okay .
+*PAR:	Alexa turn off the bedroom light . 127410_130930
+%xvas:	okay .
+*PAR:	[*audio was not intended for Alexa] . 130930_132930
+*PAR:	Alexa open the kitchen camera . 132930_136340
+%xvas:	okay .
+*PAR:	Alexa hide the kitchen camera . 136340_139750
+*PAR:	Alexa play white collar on fire tv . 139750_144720
+%xvas:	getting white collar from prime video .
+*PAR:	Alexa pause . 144720_147620
+@End

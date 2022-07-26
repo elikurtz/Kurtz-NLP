@@ -1,0 +1,85 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 028.wav
+*PAR:	Alexa what is the weather outside ? 0_3370
+%xvas:	right now in Raleigh, it's fifty-one degrees Fahrenheit with mostly sunny skies. tonight's forecast has clouds, with a low of thirty-nine degrees .
+*PAR:	Alexa what is today's date ? 3370_6290
+%xvas:	today is Monday, February eight .
+*PAR:	Alexa what time is it ? 6290_8250
+%xvas:	it's five twenty-two p_m .
+%xvas:	hope you've enjoyed your Monday .
+*PAR:	Alexa when is Thanksgiving ? 8250_11440
+%xvas:	Thanksgiving day will be on Thursday, November twenty-five, two thousand and twenty-one .
+*PAR:	Alexa how do you make chocolate chip cookies ? 11440_14990
+%xvas:	okay, for chocolate chip cookies , here's a few recipes .
+*PAR:	Alexa what is two times four ? 14990_18570
+%xvas:	two times four is eight .
+*PAR:	Alexa how many tablespoons in a cup ? 18570_21760
+%xvas:	one cup is sixteen tablespoons .
+*PAR:	Alexa how do you spell symptom ? 21760_25280
+%xvas:	symptom is spelled: s y m p t o m .
+*PAR:	Alexa play classical music . 25280_28170
+%xvas:	the station: ultimate classical, free on Amazon music .
+%xvas:	 you can always ask questions like, "what song is this .
+*PAR:	Alexa stop . 28170_29890
+*PAR:	Alexa play jazz . 29890_33200
+%xvas:	the station: ultimate jazz, free on Amazon music .
+*PAR:	Alexa volume six . 33200_36300
+*PAR:	Alexa stop . 36300_38170
+*PAR:	Alexa remind me to start the laundry tomorrow at two p_m . 38170_43100
+%xvas:	okay, I will remind you tomorrow at two p_m .
+*PAR:	Alexa remind me to feed the dog at seven p_m everyday . 43100_47730
+%xvas:	okay, I will remind you everyday at seven p_m .
+*PAR:	Alexa tell me my reminders . 47730_50950
+%xvas:	here are your upcoming reminders .
+*PAR:	Alexa remember my daughter's birthday is June first . 50950_55910
+%xvas:	you want me to note my daughter's birthday is June first, right ?
+*PAR:	what year my daughter ? 55910_58110
+%xvas:	it's two thousand and twenty-one .
+*PAR:	Alexa set a timer in five seconds . 58110_63080
+%xvas:	five seconds, starting now .
+*PAR:	Alexa stop . 63080_65070
+*PAR:	Alexa set my alarm for seven a_m tomorrow . 65070_69460
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa add oranges and grapes to my shopping list . 69460_73760
+%xvas:	oranges and grapes added .
+*PAR:	Alexa what is in my shopping list ? 73760_76710
+%xvas:	you have two items on your shopping list .
+*PAR:	Alexa call six oh three six six oh two two oh three . 76710_84940
+%xvas:	calling one six zero three six six zero two two zero three .
+*PAR:	Alexa hang up . 84940_87140
+*PAR:	Alexa find my phone . 87140_89580
+%xvas:	I am going to call the phone now so listen out! if it doesn't ring, it's because I can't connect or it's on silent .
+*PAR:	Alexa quit . 89580_91540
+*PAR:	Alexa turn the bedroom light on . 91540_94730
+%xvas:	okay .
+*PAR:	Alexa turn the bedroom light red . 94730_98970
+%xvas:	okay .
+*PAR:	Alexa change brightness to ten . 98970_103120
+%xvas:	okay .
+*PAR:	Alexa turn off the bedroom light . 103120_106280
+%xvas:	okay .
+*PAR:	Alexa open the kitchen camera . 106280_109890
+%xvas:	okay .
+*PAR:	Alexa hide the kitchen camera . 109890_113080
+*PAR:	Alexa open the kitchen camera . 113080_117710
+%xvas:	okay .
+*PAR:	Alexa hide the kitchen camera . 117710_120660
+*PAR:	Alexa play white collar on fire tv . 120660_125680
+%xvas:	getting white collar from prime video .
+*PAR:	Alexa play white collar on fire tv so that actually is the . 125680_133580
+%xvas:	getting white collar from prime video .
+*PAR:	Alexa pause . 133580_135690
+*PAR:	Alexa remember my birthday . 135690_139090
+%xvas:	to create a note, try telling me everything you want in the note in one go .
+*PAR:	Alexa remember my daughter's birthday is June first . 139090_144050
+%xvas:	you want me to note my daughter's birthday is June first, right ?
+*PAR:	[*audio could not be understood] . 144050_145350
+%xvas:	you want me to note my daughter's birthday is June first, right ?
+*PAR:	go back . 145350_146560
+@End

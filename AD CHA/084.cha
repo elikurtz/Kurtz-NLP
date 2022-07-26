@@ -1,0 +1,50 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 084.wav
+*PAR:	Alexa [*audio could not be understood] . 0_4130
+*PAR:	today's date . 4130_6105
+%xvas:	it's Monday, September 27 .
+*PAR:	Alexa when ? 6105_9155
+*PAR:	Alexa what time is it ? 9155_11910
+%xvas:	the time is one fifty-five p_m .
+*PAR:	Alexa how do you ? 11910_15920
+%xvas:	sorry, I don't know that one .
+*PAR:	Alexa [*audio could not be understood] . 15920_19630
+*PAR:	how many tablespoon ? 19630_22115
+%xvas:	1 tablespoon is 3 teaspoons .
+*PAR:	Alexa how do you how do you ? 22115_27025
+%xvas:	i’m great! it might be Monday again but the good news is that the weekend is only five days away .
+*PAR:	Alexa [*audio could not be understood] . 27025_29955
+*PAR:	how do you ? 29955_32290
+%xvas:	sorry, I am not sure .
+*PAR:	Alexa play classical music . 32290_37110
+%xvas:	here’s a station you might like: ultimate classical, free on Amazon music .
+*PAR:	Alexa play jazz . 37110_40910
+%xvas:	here’s a station you might like: ultimate jazz, free on Amazon music .
+*PAR:	Alexa stop . 40910_43095
+*PAR:	Alexa remind me . 43095_47495
+%xvas:	what's the reminder for ?
+*PAR:	[*audio could not be understood] . 47495_48810
+%xvas:	what's the reminder for ?
+*PAR:	[*] . 48810_54250
+*PAR:	Alexa [*] . 54250_63675
+*PAR:	Alexa remind me . 63675_67715
+%xvas:	what's the reminder for ?
+*PAR:	feed the dog . 67715_69930
+%xvas:	when should I remind you ?
+*PAR:	Alexa gemini . 69930_73010
+%xvas:	okay, here's my horoscope .
+*PAR:	gemini . 73010_74325
+%xvas:	oh a gemini, a beautiful sign for a beautiful soul. do you want me to remember that for the next time we talk ?
+*PAR:	Alexa open the door . 74325_78095
+%xvas:	sorry, I didn't find a group or device named door .
+*PAR:	Alexa play the kitchen cabinets . 78095_84055
+%xvas:	I can't do that on kitchen cabinets. would you like to use your echo show ?
+*PAR:	Alexa play flight flower . 84055_88605
+%xvas:	I can't find the song flight flower .
+@End

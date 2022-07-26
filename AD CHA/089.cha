@@ -1,0 +1,69 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 089.wav
+*PAR:	Alexa what is the weather outside ? 0_3835
+%xvas:	the current weather is 63 degrees Fahrenheit with clear skies and sun. throughout the day you can expect more of the same, with a high of 63 degrees and a low of 38 degrees .
+*PAR:	Alexa what is today's date ? 3835_6950
+%xvas:	it's Tuesday, November 16 .
+*PAR:	Alexa what time is it ? 6950_9285
+%xvas:	it's two fifty-nine p_m .
+*PAR:	Alexa what when is Thanksgiving ? 9285_12460
+%xvas:	Thanksgiving day is 9 days away, on Thursday, November 25 .
+*PAR:	Alexa how do you make chocolate chip cookies ? 12460_16805
+%xvas:	okay, for chocolate chip cookies , here's a few recipes .
+*PAR:	Alexa what is two times four ? 16805_21300
+%xvas:	2 times 4 is 8 .
+*PAR:	Alexa how many tablespoons are in a cup ? 21300_26965
+%xvas:	1 cup is 16 tablespoons .
+*PAR:	Alexa how do you spell simpson ? 26965_30710
+%xvas:	simpson is spelled: s. i. m. p. s. o. n .
+*PAR:	Alexa how do you spell simpson ? 30710_34815
+%xvas:	simpson is spelled: s. i. m. p. s. o. n .
+*PAR:	Alexa play classical music . 34815_39100
+%xvas:	here’s a station you might like: ultimate classical, free on Amazon music .
+*PAR:	Alexa stop . 39100_41435
+*PAR:	Alexa play jazz . 41435_46045
+%xvas:	here’s a station you might like: ultimate jazz, free on Amazon music .
+*PAR:	Alexa stop . 46045_48770
+*PAR:	Alexa remind me to start the laundry tomorrow at two p_m . 48770_55515
+%xvas:	reminders are not currently supported on this device .
+*PAR:	Alexa remind me to feed the dog at seven p_m . 55515_61330
+%xvas:	reminders are not currently supported on this device .
+*PAR:	Alexa tell me my reminders . 61330_65045
+%xvas:	here is the reminder .
+*PAR:	Alexa set a timer in five seconds . 65045_69360
+%xvas:	5 seconds, starting now .
+*PAR:	Alexa stop . 69360_71305
+*PAR:	Alexa set my alarm for seven a_m tomorrow . 71305_77570
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa what is in my shopping list ? 77570_81795
+%xvas:	there are no items on your shopping list. try saying Alexa, add eggs to my shopping list .
+*PAR:	Alexa add oranges and grapes to my shopping list . 81795_86560
+%xvas:	I have added oranges and grapes to your shopping list .
+*PAR:	Alexa what is on my shopping list ? 86560_91085
+%xvas:	you have 2 items on your shopping list .
+%xvas:	I May have missed something, try again with a bit more detail .
+*PAR:	Alexa find . 91085_93810
+%xvas:	here you go .
+*PAR:	Alexa find my phone . 93810_96625
+%xvas:	I am going to call the phone now so listen out! if it doesn't ring, it's because I can't connect or it's on silent .
+*PAR:	Alexa quit . 96625_99620
+*PAR:	Alexa open the kitchen camera . 99620_103845
+%xvas:	okay .
+*PAR:	Alexa hide the kitchen camera . 103845_107680
+*PAR:	Alexa play white collar on fire tv . 107680_112385
+%xvas:	getting white collar from prime video .
+*PAR:	Alexa pause . 112385_114810
+*PAR:	Alexa how do you spell simpson ? 114810_119300
+%xvas:	simpson is spelled: s. i. m. p. s. o. n .
+*PAR:	Alexa call six oh three six six zero two two oh three . 119300_126975
+%xvas:	calling one six zero three six six zero two two zero three .
+*PAR:	Alexa hang up . 126975_129490
+*PAR:	Alexa remember my daughter's birthday is June . 129490_136590
+%xvas:	you want me to note my daughter's birthday is June, right ?
+@End

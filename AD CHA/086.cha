@@ -1,0 +1,78 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 086.wav
+*PAR:	Alexa what is the weather outside ? 0_4105
+%xvas:	currently, in chapel hill it's 67 degrees Fahrenheit with clear skies and sun. today, you can expect mostly sunny weather, with a high of 67 degrees and a low of 44 degrees .
+%xvas:	enjoy your afternoon .
+*PAR:	Alexa what is today's date ? 4105_9105
+%xvas:	today is Tuesday, October 26 .
+*PAR:	Alexa what time is it ? 9105_13625
+%xvas:	the time is three thirty-three p_m .
+*PAR:	Alexa when is Thanksgiving ? 13625_17460
+%xvas:	Thanksgiving day will be on Thursday, November 25, 2021 .
+*PAR:	Alexa how do you ? 17460_20155
+%xvas:	sorry, I am not sure about that .
+*PAR:	Alexa how do you ? 20155_22370
+%xvas:	sorry, I am not sure .
+*PAR:	Alexa how do you bake chocolate chip cookies ? 22370_27525
+%xvas:	okay, for bake chocolate chip cookies , here's a few recipes .
+*PAR:	Alexa how do you bake ? 27525_30550
+%xvas:	according to Wikihow, to bake like a pro, first learn how to heat your oven to different temperatures and set its timer. choose a simple recipe, like cookies or chicken thighs, and follow it exactly. preheat your oven and prep your ingredients while you wait for it to warm up. if you’re baking something sweet, mix your wet and dry ingredients separately, then combine them; if you’re cooking meat or vegetables, season them before baking to ensure a great taste. use oven mitts to set your baking dish in the oven, let it cook for as long as instructed, and enjoy. to learn more details about this and other how-to's from Wikihow, say open Wikihow .
+*PAR:	Alexa what is two times four ? 30550_34745
+%xvas:	2 times 4 is 8 .
+*PAR:	Alexa how many tablespoons in a cup ? 34745_39960
+%xvas:	1 cup is 16 tablespoons .
+*PAR:	Alexa how do you spell ? 39960_44485
+%xvas:	sorry, can you repeat the word ?
+*PAR:	symptom symptom . 44485_47210
+%xvas:	symptom is spelled: s y m p t o m .
+*PAR:	Alexa play classical music . 47210_51430
+%xvas:	here’s a station you might like: ultimate classical, free on Amazon music .
+*PAR:	Alexa Alexa stop . 51430_54515
+*PAR:	Alexa play jazz . 54515_57090
+%xvas:	here’s a station you might like: ultimate jazz, free on Amazon music .
+*PAR:	Alexa stop . 57090_58975
+*PAR:	Alexa remind me to start . 58975_63530
+%xvas:	when should I remind you ?
+*PAR:	oops . 63530_64755
+%xvas:	sorry, I don't know that .
+*PAR:	Alexa remind me to start . 64755_68170
+%xvas:	when should I remind you ?
+*PAR:	two . 68170_70055
+*PAR:	Alexa tell me my reminders . 70055_76615
+%xvas:	there are no reminders scheduled .
+*PAR:	Alexa remember my daughter's birthday is June first . 76615_83985
+%xvas:	magnificent! when you're ready to celebrate the big day, just say, "sing happy birthday. .
+*PAR:	Alexa set a time in five seconds . 83985_89290
+%xvas:	5 seconds, starting now .
+*PAR:	Alexa stop Alexa . 89290_92705
+*PAR:	Alexa set my alarm . 92705_96270
+%xvas:	alarm for what time ?
+*PAR:	tomorrow . 96270_97555
+%xvas:	alarm for what time ?
+*PAR:	no morning . 97555_99770
+%xvas:	alarm for what time ?
+*PAR:	seven . 99770_101805
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa add oranges and grapes to my shopping list . 101805_109270
+%xvas:	I have added oranges and grapes to your shopping list .
+*PAR:	Alexa what is my shopping list ? 109270_114570
+%xvas:	you have 2 items on your shopping list .
+*PAR:	Alexa call six zero three six six zero two two zero three . 114570_125605
+%xvas:	calling one six zero three six six zero two two zero three .
+*PAR:	Alexa hand up . 125605_131030
+%xvas:	here's something I found on the web. according to health.qld.gov.au: hand up is a self help support group for anyone dealing with mental health issues such as depression and anxiety .
+*PAR:	Alexa find my phone . 131030_134445
+%xvas:	I am going to call the phone now so listen out! if it doesn't ring, it's because I can't connect or it's on silent .
+*PAR:	Alexa quick . 134445_137050
+*PAR:	Alexa open the kitchen . 137050_139805
+%xvas:	kitchen doesn't support that .
+*PAR:	Alexa play white collar on fire tv . 139805_146700
+%xvas:	getting white collar from prime video .
+*PAR:	[*audio was not intended for Alexa] . 146700_148700
+@End

@@ -1,0 +1,74 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 018.wav
+*PAR:	Alexa what is the weather outside ? 0_2920
+%xvas:	in Raleigh, it's thirty degrees Fahrenheit with mostly sunny skies. today, you can look for lots of sun, with a high of thirty-nine degrees and a low of nineteen degrees .
+*PAR:	Alexa what is today's date ? 2920_5480
+%xvas:	today is Friday, January twenty-nine .
+*PAR:	Alexa what time is it ? 5480_7650
+%xvas:	it's ten twenty-seven a_m .
+*PAR:	Alexa when is Thanksgiving ? 7650_10120
+%xvas:	Thanksgiving day will be on Thursday, November twenty-five, two thousand and twenty-one .
+*PAR:	[*audio was not intended for Alexa] . 10120_12120
+*PAR:	[*audio was not intended for Alexa] . 12120_14120
+*PAR:	Alexa what is two times four ? 14120_17340
+%xvas:	two times four is eight .
+*PAR:	Alexa how many tablespoons in a cup ? 17340_20770
+%xvas:	one cup is sixteen tablespoons .
+*PAR:	Alexa how do you spell symptom ? 20770_23930
+%xvas:	symptom is spelled: s y m p t o m .
+*PAR:	Alexa play classical music . 23930_26670
+%xvas:	the station: ultimate classical, free on Amazon music .
+*PAR:	Alexa volume eight . 26670_29750
+*PAR:	Alexa stop . 29750_31710
+*PAR:	Alexa play jazz . 31710_34180
+%xvas:	the station: ultimate jazz, free on Amazon music .
+*PAR:	Alexa stop . 34180_36050
+*PAR:	Alexa remind me to start the laundry tomorrow at two p_m . 36050_41010
+%xvas:	okay, I will remind you tomorrow at two p_m .
+*PAR:	Alexa remind me to feed the dog at seven p_m everyday . 41010_46000
+%xvas:	okay, I will remind you everyday at seven p_m .
+*PAR:	Alexa tell me my reminders . 46000_48890
+%xvas:	here are your upcoming reminders .
+*PAR:	Alexa remember my daughter's birthday is June first . 48890_53850
+%xvas:	you want me to note my daughter's birthday is June first, right ?
+*PAR:	right . 53850_55060
+%xvas:	okay, noted .
+%xvas:	I can also remind you on June one at nine a.m.. do you want me to do that ?
+*PAR:	no . 55060_56270
+%xvas:	ok. I won't remind you .
+*PAR:	Alexa set a timer in five seconds . 56270_59790
+%xvas:	five seconds, starting now .
+*PAR:	Alexa stop . 59790_61660
+*PAR:	Alexa start my alarm set my alarm for for seven a_m tomorrow . 61660_68420
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa add oranges and grapes to my shopping list . 68420_72840
+%xvas:	oranges and grapes added .
+*PAR:	Alexa what is my shopping list ? 72840_75760
+%xvas:	you have two items on your shopping list .
+*PAR:	Alexa call six oh three six six zero two two zero three . 75760_83120
+%xvas:	calling one six zero three six six zero two two zero three .
+*PAR:	Alexa hang up . 83120_84930
+*PAR:	Alexa find my phone . 84930_87430
+%xvas:	I am going to call the phone now so listen out! if it doesn't ring, it's because I can't connect or it's on silent .
+*PAR:	Alexa quit . 87430_89300
+*PAR:	Alexa turn the bedroom light on . 89300_92430
+%xvas:	okay .
+*PAR:	Alexa turn the bedroom light red . 92430_95710
+%xvas:	okay .
+*PAR:	Alexa change brightness to ten . 95710_98810
+%xvas:	okay .
+*PAR:	Alexa turn off the bedroom light . 98810_101850
+%xvas:	okay .
+*PAR:	Alexa open the kitchen camera . 101850_104830
+%xvas:	okay .
+*PAR:	Alexa hide the kitchen camera . 104830_107570
+*PAR:	Alexa play white collar on fire tv . 107570_111630
+%xvas:	getting white collar from prime video .
+*PAR:	Alexa pause . 111630_113740
+@End

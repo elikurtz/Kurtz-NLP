@@ -1,0 +1,107 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 019.wav
+*PAR:	Alexa what is the weather outside ? 0_3490
+%xvas:	right now in Raleigh, it's forty-six degrees Fahrenheit with cloudy skies. today's forecast has rainy weather, with a high of forty-eight degrees and a low of forty-five degrees .
+*PAR:	Alexa what is today's date ? 3490_6740
+%xvas:	today is Monday, January twenty-five .
+*PAR:	Alexa what time is it ? 6740_9060
+%xvas:	it's two six p_m .
+*PAR:	Alexa when is Thanksgiving ? 9060_12350
+%xvas:	Thanksgiving day will be on Thursday, November twenty-five, two thousand and twenty-one .
+*PAR:	Alexa how do you bake ? 12350_15790
+%xvas:	according to Wikihow, to bake like a pro, first learn how to heat your oven to different temperatures and set its timer. choose a simple recipe, like cookies or chicken thighs, and follow it exactly. preheat your oven and prep your ingredients while you wait for it to warm up. if you’re baking something sweet, mix your wet and dry ingredients separately, then combine them; if you’re cooking meat or vegetables, season them before baking to ensure a great taste. use oven mitts to set your baking dish in the oven, let it cook for as long as instructed, and enjoy. to learn more details about this and other how-to's from Wikihow, say open Wikihow .
+*PAR:	Alexa what is two times four ? 15790_19470
+%xvas:	two times four is eight .
+*PAR:	Alexa how many tablespoons in a cup ? 19470_23810
+%xvas:	one cup is sixteen tablespoons .
+*PAR:	Alexa how do you spell ? 23810_27670
+%xvas:	sorry, can you repeat the word ?
+*PAR:	skip them . 27670_29000
+%xvas:	sorry, I don't know that .
+*PAR:	Alexa how do you spell symptom ? 29000_33250
+%xvas:	symptom is spelled: s y m p t o m .
+*PAR:	Alexa play classical music . 33250_36740
+%xvas:	the station: ultimate classical, free on Amazon music .
+*PAR:	Alexa volume eight . 36740_40510
+*PAR:	Alexa stop . 40510_43080
+*PAR:	Alexa play jazz . 43080_46790
+%xvas:	the station: ultimate jazz, free on Amazon music .
+*PAR:	Alexa volume six . 46790_49290
+*PAR:	Alexa stop . 49290_51610
+*PAR:	Alexa tell me my reminders . 51610_55410
+%xvas:	here are your upcoming reminders .
+*PAR:	Alexa remind me to start the laundry tomorrow . 55410_60070
+%xvas:	what time tomorrow should I remind you ?
+*PAR:	Alexa remind me to start the laundry at two p_m . 60070_65570
+%xvas:	okay, I will remind you tomorrow at two p_m .
+*PAR:	Alexa remind me to feed the dog at seven p_m everyday . 65570_73900
+%xvas:	okay, I will remind you everyday at seven p_m .
+*PAR:	Alexa tell me my reminders . 73900_77910
+%xvas:	here are your upcoming reminders .
+*PAR:	Alexa remember my daughter's birthday is June first . 77910_84410
+%xvas:	you want me to note my daughter's birthday is June first, right ?
+*PAR:	Alexa set a timer . 84410_87820
+%xvas:	for how long ?
+*PAR:	set the timer in five seconds . 87820_90950
+%xvas:	five seconds, starting now .
+*PAR:	[*audio could not be understood] . 90950_92160
+*PAR:	Alexa set my alarm for seven a_m tomorrow . 92160_98000
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa oranges and grapes . 98000_102490
+%xvas:	oranges and grapes added .
+*PAR:	Alexa what is my shopping list ? 102490_105890
+%xvas:	you have two items on your shopping list .
+*PAR:	Alexa [*audio could not be understood] . 105890_108760
+*PAR:	six oh three . 108760_110930
+%xvas:	the answer to your calculation is six hundred and three .
+*PAR:	Alexa [*audio could not be understood] . 110930_113860
+*PAR:	zero three . 113860_115430
+*PAR:	Alexa [*audio could not be understood] . 115430_118360
+*PAR:	six . 118360_120320
+*PAR:	Alexa find my phone . 120320_123240
+%xvas:	I am going to call the phone now so listen out! if it doesn't ring, it's because I can't connect or it's on silent .
+*PAR:	Alexa [*audio could not be understood] . 123240_126080
+*PAR:	[*] . 126080_135100
+*PAR:	Alexa turn the bedroom light on . 135100_138630
+%xvas:	okay .
+*PAR:	Alexa turn the bedroom lights red . 138630_143450
+%xvas:	okay .
+*PAR:	Alexa [*audio could not be understood] . 143450_146560
+*PAR:	change brightness ten . 146560_149540
+%xvas:	okay .
+*PAR:	Alexa turn off the bedroom light . 149540_153700
+%xvas:	okay .
+*PAR:	Alexa open the kitchen . 153700_158520
+%xvas:	kitchen doesn't support that .
+*PAR:	Alexa I am . 158520_162590
+%xvas:	it's two fifteen p_m .
+*PAR:	Alexa [*audio could not be understood] . 162590_165220
+*PAR:	play . 165220_167330
+*PAR:	Alexa [*audio could not be understood] . 167330_170290
+*PAR:	color on tv . 170290_172220
+%xvas:	tv isn't responding. please check its network connection and power supply .
+*PAR:	Alexa six zero three . 172220_176830
+%xvas:	three divided by six hundred and six rounds to zero .
+*PAR:	Alexa [*audio could not be understood] . 176830_179730
+*PAR:	six zero three . 179730_181990
+%xvas:	three divided by six hundred and six is approximately zero .
+*PAR:	Alexa open the kitchen camera . 181990_186150
+%xvas:	okay .
+*PAR:	Alexa [*audio could not be understood] . 186150_189770
+*PAR:	Alexa [*audio could not be understood] . 189770_192700
+*PAR:	amber . 192700_193880
+%xvas:	Hmm, I don't know that one .
+*PAR:	Alexa [*] . 193880_202930
+*PAR:	Alexa [*audio could not be understood] . 202930_206100
+*PAR:	Alexa off . 206100_208970
+*PAR:	Alexa [*audio could not be understood] . 208970_211870
+*PAR:	[*audio could not be understood] . 211870_213050
+*PAR:	six . 213050_215100
+*PAR:	Alexa play . 215100_218690
+@End

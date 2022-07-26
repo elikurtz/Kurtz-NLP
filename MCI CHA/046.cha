@@ -1,0 +1,87 @@
+@UTF8
+@Window:	228_525_408_680_2358_1_2862_1_2862_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, VAS Media
+@ID:	eng|VAS|PAR|||||Participant|||
+@ID:	eng|VAS|VAS|||||Media|||
+@Media: 046.wav
+*PAR:	Alexa what is the weather outside ? 0_2890
+%xvas:	currently, in Raleigh it's forty-one degrees Fahrenheit with cloudy skies. today, you can expect showers, with a high of forty-one degrees and a low of twenty-five degrees .
+*PAR:	Alexa what is today's date ? 2890_5480
+%xvas:	today is Friday, February nineteen .
+*PAR:	Alexa what time is it ? 5480_7860
+%xvas:	it's two three p_m .
+*PAR:	Alexa when is Thanksgiving ? 7860_10840
+%xvas:	Thanksgiving day will be on Thursday, November twenty-five, two thousand and twenty-one .
+*PAR:	Alexa how do you bake chocolate chip cookies ? 10840_15200
+%xvas:	okay, for bake chocolate chip cookies , here's a few recipes .
+*PAR:	Alexa what is two times four ? 15200_18330
+%xvas:	two times four is eight .
+*PAR:	Alexa how many tablespoons in a cup ? 18330_21220
+%xvas:	one cup is sixteen tablespoons .
+*PAR:	Alexa how do you spell symptom ? 21220_25040
+%xvas:	symptom is spelled: s y m p t o m .
+*PAR:	Alexa play classical music . 25040_27870
+%xvas:	the station: ultimate classical, free on Amazon music .
+*PAR:	Alexa volume eight . 27870_30520
+*PAR:	Alexa stop . 30520_32660
+*PAR:	Alexa play jazz . 32660_35130
+%xvas:	the station: ultimate jazz, free on Amazon music .
+*PAR:	Alexa volume six . 35130_37930
+*PAR:	Alexa stop . 37930_39950
+*PAR:	Alexa remind me to start the laundry tomorrow at two p_m . 39950_44970
+%xvas:	okay, I will remind you tomorrow at two p_m .
+*PAR:	Alexa tell me my reminders . 44970_47320
+%xvas:	here is your upcoming reminder .
+*PAR:	Alexa remind me to start the laundry tomorrow at two p_m . 47320_51800
+%xvas:	okay, I will remind you tomorrow at two p_m .
+*PAR:	Alexa remind me to feed the dog at seven p_m everyday . 51800_56700
+%xvas:	okay, I will remind you everyday at seven p_m .
+*PAR:	Alexa tell me my reminders . 56700_59950
+%xvas:	here are your upcoming reminders .
+*PAR:	Alexa remember my daughter's birthday is June first . 59950_64190
+%xvas:	you want me to note my daughter's birthday is June first, right ?
+*PAR:	yes correct . 64190_65760
+%xvas:	okay, noted .
+%xvas:	I can also remind you on June one at nine a.m.. do you want me to do that ?
+*PAR:	[*audio was not intended for Alexa] . 65760_67760
+*PAR:	Alexa set a timer in five seconds . 67760_70710
+%xvas:	five seconds, starting now .
+*PAR:	Alexa stop . 70710_72520
+*PAR:	Alexa set my alarm for seven a_m tomorrow . 72520_76160
+%xvas:	alarm set for seven a_m tomorrow .
+*PAR:	Alexa add orange juice and grapes to my shopping list . 76160_80130
+%xvas:	orange juice and grapes added .
+*PAR:	Alexa what is in my shopping list ? 80130_83170
+%xvas:	you have two items on your shopping list .
+*PAR:	Alexa what is my shopping list ? 83170_86090
+%xvas:	you have two items on your shopping list .
+*PAR:	Alexa call six zero three six six zero two two zero three . 86090_92640
+%xvas:	calling one six zero three six six zero two two zero three .
+*PAR:	Alexa hang up . 92640_94390
+*PAR:	Alexa find my . 94390_95990
+%xvas:	sorry, i’m not sure about that .
+*PAR:	Alexa quit . 95990_97710
+*PAR:	Alexa turn the bedroom light on . 97710_100510
+%xvas:	okay .
+*PAR:	Alexa turn the bright bedroom light red . 100510_104030
+%xvas:	okay .
+*PAR:	Alexa change brightness to ten . 104030_107280
+%xvas:	okay .
+*PAR:	Alexa turn the bedroom light . 107280_111250
+%xvas:	okay .
+*PAR:	Alexa [*audio could not be understood] . 111250_114660
+*PAR:	Alexa turn off the bedroom light . 114660_117130
+%xvas:	okay .
+*PAR:	Alexa open the kitchen camera . 117130_119990
+%xvas:	okay .
+*PAR:	Alexa hide the kitchen camera . 119990_123030
+*PAR:	Alexa play white collar on fire tv . 123030_127510
+%xvas:	getting white collar from prime video .
+*PAR:	Alexa pause . 127510_129320
+*PAR:	Alexa add oranges and grapes to my shopping list . 129320_133830
+%xvas:	oranges and grapes added .
+*PAR:	Alexa what is in my shopping list ? 133830_137110
+%xvas:	you have two items on your shopping list .
+@End
