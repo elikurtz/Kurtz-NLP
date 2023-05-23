@@ -1,2 +1,5 @@
 
 *.wav
+*.cha
+*.npy
+*.dll

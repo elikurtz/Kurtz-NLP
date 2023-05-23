@@ -1,0 +1,12 @@
+create a method to use two keywords for each command (less Alexa)
+
+create a profile for each user, # of exact matches, # of partial matches, 
+# of unrecognized, duration of segment, average duration of command in segment;
+this profile will be used for the SVM training.
+
+10 fold cross validation for svm 
+Leave one out validation for svm training
+remove response commands? put into other category
+
+when padding, do I need to place the pad in the index location where there might not have been a command?
+or can the pad be placed at the end of the vector?

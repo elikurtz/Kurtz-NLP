@@ -1,4 +1,0 @@
-need to add partially matched commands for excel file  
-add "full match" before finding keywords
-determine unique keywords for each command, add these as keywords for ID of command  
-exact match - partial match - unmatched commands - unrecognized - response commands
